@@ -1,3 +1,8 @@
+@font-face {
+    font-family: CitCat;
+    src: local(Citcat-ZVoLZ) format(otf);
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -23,6 +28,9 @@ header {
     display: inline-flex;
     gap: 20px;
     align-items: center;
+    font-family: CitCat;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .links {
@@ -33,6 +41,7 @@ header {
 
 a {
     font-size: 18px;
+    font-weight: bold;
     color: #a87f5d;
     text-decoration: none;
 }
@@ -78,6 +87,22 @@ a {
     padding: 0 50px 100px 50px;
 }
 
+button {
+    background-color: white;
+    color: #191e16;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 24px 0 24px;
+    margin: 5px 0 24px 0;
+}
+
+.first-quote {
+    display: flex;
+    margin-left: auto;
+    line-height: 0px;
+}
+
 .grumpy-cat {
     display: flex;             
     width: auto;
@@ -87,9 +112,76 @@ a {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 42px;
 }
 
 p {
     font-size: 18px;
+}
+
+.section-two {
+    background-color: #e0d3cc;
+    display: flex inline-block;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 0 100px 0;
+}
+
+.objectives {
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cat-photos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.shower-cat {
+    display: flex;
+    width: 400px;
+    height: auto;
+    border: 7px solid #232b34;
+    border-radius: 10px;
+}
+
+.outdoors-cat {
+    display: flex;
+    width: 400px;
+    height: auto;
+    border: 7px solid #232b34;
+    border-radius: 10px;
+}
+
+.bread-cat {
+    display: flex;
+    width: 400px;
+    height: auto;
+    border: 7px solid #232b34;
+    border-radius: 10px;
+}
+
+.plant-cat {
+    display: flex;
+    width: 400px;
+    height: auto;
+    border: 7px solid #232b34;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 36px;
+    color: #191e16;
+}
+
+figcaption {
+    font-size: 18px;
+    color: #191e16;
+    text-align: center;
+    padding-top: 16px;
 }

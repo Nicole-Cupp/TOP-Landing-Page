@@ -7,7 +7,9 @@ In order to complete this task, I must effectively break down and understand the
 
 11/23/2021 - I wanted to make the project more personalized. I decided to create a webpage around the product of a course. The course is called "Hooman Purrfection", which is taught by cats for humans. Life can be very stressful for us, and oftentimes, I catch my cats taking their 11th nap for the day without a care in the world. I wanted to bridge the gap between my love for cats and creating a mock product/webpage.
 
-11/28/2021 - Went with a dark and moody color palette scheme. Cats are generally very tempermental and I thought the theme also fit in well with the course.
+11/28/2021 - Went with a dark and moody color palette. Cats are generally very tempermental and I thought the color scheme also fit in well with the course.
+
+11/29/2021 - Found a font for the webpage's logo via Font Space. 
 
 
 PHOTO/IMAGE CREDITS:
@@ -32,3 +34,8 @@ https://www.pexels.com/photo/brown-tabby-cat-with-slice-of-loaf-bread-on-head-45
 
 Color Paletter Used:
 https://www.color-hex.com/color-palette/83257
+
+
+Font Used for Header Logo:
+CITCAT Font by NJ Studio
+https://www.fontspace.com/citcat-font-f48162
