@@ -1,6 +1,6 @@
 @font-face {
-    font-family: CitCat;
-    src: local(Citcat-ZVoLZ) format(otf);
+    font-family: 'CitCat';
+    src: url("./fonts/Citcat-ZVoLZ.otf") format("opentype");
 }
 
 body {
@@ -25,6 +25,7 @@ header {
 }
 
 .left {
+    font-family: 'CitCat';
     display: inline-flex;
     gap: 20px;
     align-items: center;
