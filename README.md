@@ -1,4 +1,6 @@
 # TOP-Landing-Page
+[Demo Site](https://nicole-cupp.github.io/TOP-Landing-Page/)
+
 11/22/2021
 This is an assignment from The Odin Project "Foundations" curriculum. This project involves creating a mock landing page based off of a design provided by the creators of the course.
 The design they have provided comes in the form of 2 images: one is an image of the complete website, and one has some details about some of the fonts and colors they have used.
